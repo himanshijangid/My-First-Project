@@ -11388,3 +11388,25 @@ pre {
   height: 170px;
   
 }
+@media screen and (max-width:1024px)
+{
+
+#content
+{
+    /* height: 230px; */
+}
+
+@media screen and (max-width:769px)
+
+#content
+{
+    height: 50px;
+}
+
+@media screen and (max-width:768px)
+
+#content
+{
+    /* height: 200px; */
+}
+}
